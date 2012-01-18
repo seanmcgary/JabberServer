@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# https://github.com/astro/node-stringprep
+npm install --global node-stringprep
+
+# https://github.com/astro/node-xmpp.git
+npm install --global node-xmpp
